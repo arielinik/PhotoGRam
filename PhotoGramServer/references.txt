@@ -1,0 +1,21 @@
+SP__=PROPN=Nome propio
+A__=adjective=Aggettivo
+B__=Adverb=Avverbio
+BN__=Negation adverb=Avverbio di negazione
+CC__ = CONJ = CONGIUNZIONE
+CS__ = SCONJ = CONGIUNZIONE SUBORDINATA
+
+aggettivo determinativo
+RD__=Articolo definito
+RI__=Articolo indefinito
+DE__=Exclamative determiner=esclamativo
+DI__=Indefinite determiner=indefinito
+DQ__=Interrogative determiner=interrogativo
+DR__=Relative determiner
+DD__=Demonstrative determiner=aggettivo determinativo
+T: Predeterminer
+AP__=Possessive adjective =Aggettivo possessivo
+E__=Preposizione
+
+?domande per prof?
+(Mood)Sub: subjunctive / conjunctive = congiuntivo / ...
