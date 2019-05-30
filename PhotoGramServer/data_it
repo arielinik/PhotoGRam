@@ -49,7 +49,7 @@ Pos=Positivo, prima classe;Cmp=Comparativo, seconda classe;Sup=Superlativo, terz
 }
 i
 {
-VA__=Verbo ausiliare ;V__=Verbo ;SP___=Nome Proprio ;PC__=Pronome Clitico ;PD__=Pronome Dimostrativo ;PE__=Pronome personale ;SP__=Nome Propio ;E__=preposizione ;SP__=Nome Propio
+VA__=Verbo ausiliare,;V__=Verbo ;SP___=Nome Proprio,;PC__=Pronome Clitico ;PD__=Pronome Dimostrativo ;PE__=Pronome personale ;SP__=Nome Propio ;E__=preposizione ;SP__=Nome Propio
 BN__=Avverbio di Negazione ;B___=Avverbio;B__=Avverbio ;S__=Nome ;PI__=Pronome indefinito ;PP__=Pronome Posessivo ;PQ__=Pronome Interrogativo ;PR__=Pronome Relativo ;S___=Nome
 AP__=Aggettivo possessivo ;A__=Aggettivo ;CC___=congiunzione coordinante;RD__=Articolo Definito ;RI__=Articolo Indefinito ;DE__=Determinante Esclamativo ;A___=Aggettivo
 DI__=Determinante Indefinito ;DQ__=Determinante Interrogativo ;DR__=Determinante Relativo ;DD__=Determinante Dimostrativo;T__=Predeterminante ;CS___=Congiunzione Subordinante
