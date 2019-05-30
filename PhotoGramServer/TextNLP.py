@@ -76,6 +76,7 @@ class ItNLP(TextNLP):
         for line in fin:
             line = line.splitlines()[0]
 
+            #commento lo salta
             if(line[0] == "#"):
                 continue
 
@@ -127,7 +128,8 @@ class ItNLP(TextNLP):
                     row = row.replace(k + "=", v + "=")
                 elif key == "i":
                     row = row.replace(k, v)
-                else : row = row.replace(key + "=" + k,key + "=" + v)
+                else:
+                    row = row.replace(key + "=" + k,key + "=" + v)
 
         return row
 
