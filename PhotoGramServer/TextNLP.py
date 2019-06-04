@@ -130,6 +130,7 @@ class ItNLP(TextNLP):
                     row = row.replace(k, v)
                 else:
                     row = row.replace(key + "=" + k,key + "=" + v)
+            row = row.replace("|", ";")
 
         return row
 
